@@ -25,6 +25,7 @@ Documentation->
 Database-> Only one table was created with 4 fields (id,name,email,company)
 
 Back End-> 
+
     Dependencies: Spring Boot DevTools (provides fast application restarts, LiveReload, and configurations for enhanced development experience) , 
                   Spring Data JPA (persist data in SQL stores with Java Persistence API using Spring Data and Hibernate), 
                   Spring Web (build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container),
